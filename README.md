@@ -7,8 +7,7 @@ Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramen
 
 [📖Clique aqui para ler](https://github.com/WaldeniseMoraes/Criando-um-Ebook-com-ChatGPT/blob/main/output/ebook_V2.pdf)
 
-
-#💻Tecnologias Utilizadas no projeto:
+💻**Tecnologias Utikizadas no projeto:**
 ***
 
 * [ChatGPT](https://chat.openai.com/)
@@ -16,6 +15,6 @@ Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramen
 * [PowerPoint](https://www.microsoft.com/pt-br/microsoft-365/powerpoint)
 
 
-#🧠Prompt
+🧠**Prompt:**
 ***
 
